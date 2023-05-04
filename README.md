@@ -1,5 +1,5 @@
  ## Hi there 👋
- ### I'm interested in programing, speacialy backend codding
+ ### I'm interested in programing, especially backend codding
  ### I'm currentrly learning JAVA, C# and JS
  ### I'm a developer intern, working with PLSQL and with development of IFS ERP
  ### I'm a Cience Computer student at the UniRitter University
